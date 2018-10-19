@@ -1,2 +1,2 @@
 # BoardGame-Analysis
-Analysis of board games 
+Analysis of board games data  
